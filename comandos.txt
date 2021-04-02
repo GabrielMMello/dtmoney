@@ -1,0 +1,8 @@
+npx create-react-app dtmoney --template typescript
+npm install styled-components
+npm install @types/styled-components -D
+npm install miragejs
+npm install axios
+npm install react-modal
+npm install @types/react-modal
+npm install polished
